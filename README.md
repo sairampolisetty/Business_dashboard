@@ -4,8 +4,8 @@ This is a full-stack web application built for the GrowthProAI Full-Stack Intern
 
 ## Live Demo
 
-* **Frontend (Vercel):** [Your Live Vercel URL Here]
-* **Backend (Render):** [Your Live Render URL Here]
+* **Frontend (Vercel):** https://business-dashboard-re2e.vercel.app/
+* **Backend (Render):** https://growthproai-dashboard-6v6y.onrender.com
 
 ## Tech Stack
 
